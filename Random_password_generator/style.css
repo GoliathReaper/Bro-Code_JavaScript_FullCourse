@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+div{
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+button{
+    background-color: hsla(219, 100%, 50%, 0.63);
+    border: none;
+    border-radius: 5px;
+    font-size: 2rem;
+    color: aliceblue;
+    
+}
+label{
+    font-weight: bold;
+}
+input{
+    font-size: 2rem;
+    width: 20%;
+    text-align: center;
+}
+button:active{
+    background-color: hsla(219, 100%, 50%, 0.40);
+}
